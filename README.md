@@ -5,6 +5,6 @@ This project aims to create an Artificial Neural Network(ANN) model to identify 
 The American Sign Language letter database of hand gestures is patterned closely with the classic MNIST dataset. Each training and test case represents a label (0-25) mapping directly to each alphabetic letter A-Z, excluding "J"(label 9) and "Z"(label 25).
 
 # Prerequisites
-Python
-Pandas
-Pytorch
+Python.
+Pandas.
+Pytorch.
